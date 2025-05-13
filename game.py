@@ -215,3 +215,5 @@ while running:
 if score > high_score:
     save_high_score(score)
 pygame.quit()
+
+#Add music
